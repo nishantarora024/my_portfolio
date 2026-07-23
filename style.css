@@ -1,0 +1,1020 @@
+.portfolio-light {
+  background-color: #ffffff;
+  width: 100%;
+  min-width: 1440px;
+  min-height: 3204px;
+  display: flex;
+}
+
+.portfolio-light .frame {
+  display: flex;
+  margin-top: 46px;
+  width: 1191px;
+  height: 3036px;
+  margin-left: 125px;
+  position: relative;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 72px;
+}
+
+.portfolio-light .about {
+  position: relative;
+  width: 1191px;
+  height: 62px;
+}
+
+.portfolio-light .div {
+  display: flex;
+  width: 1191px;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  top: 16px;
+}
+
+.portfolio-light .logo {
+  position: relative;
+  width: 42px;
+  height: 40px;
+}
+
+.portfolio-light .rectangle {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 40px;
+  height: 40px;
+  background-color: #3a3a3a;
+  border-radius: 20px 0px 20px 20px;
+}
+
+.portfolio-light .rectangle-2 {
+  position: absolute;
+  top: 0;
+  left: 16px;
+  width: 24px;
+  height: 23px;
+  background-color: #8e684b;
+  border-radius: 10px 0px 10px 0px;
+}
+
+.portfolio-light .text-wrapper {
+  position: absolute;
+  top: 1px;
+  left: 9px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.portfolio-light .nav-bar {
+  position: relative;
+  width: 244px;
+  height: 46px;
+}
+
+.portfolio-light .frame-2 {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  position: relative;
+}
+
+.portfolio-light .div-wrapper {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 10px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.portfolio-light .text-wrapper-2 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Red Hat Display-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.portfolio-light .text-wrapper-3 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Red Hat Display-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.portfolio-light .frame-3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 120px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.portfolio-light .frame-4 {
+  display: flex;
+  align-items: center;
+  gap: 125px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.portfolio-light .frame-5 {
+  display: flex;
+  flex-direction: column;
+  width: 635px;
+  align-items: flex-start;
+  gap: 38px;
+  position: relative;
+}
+
+.portfolio-light .hero-title {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.portfolio-light .designing-precise {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Red Hat Display-Bold", Helvetica;
+  font-weight: 700;
+  color: #25202f;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: 57.6px;
+}
+
+.portfolio-light .i-m-nishant-arora-a {
+  position: relative;
+  align-self: stretch;
+  font-family: "Red Hat Display-Regular", Helvetica;
+  font-weight: 400;
+  color: #3a3a3a;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.portfolio-light .span {
+  font-family: "Red Hat Display-Regular", Helvetica;
+  font-weight: 400;
+  color: #3a3a3a;
+  font-size: 24px;
+  letter-spacing: 0;
+}
+
+.portfolio-light .text-wrapper-4 {
+  text-decoration: underline;
+}
+
+.portfolio-light .cards {
+  position: relative;
+  width: 228px;
+  height: 34px;
+  border-radius: 8px;
+  border: 1px solid;
+  border-color: #f6f6f6;
+  box-shadow: 0px 25px 52px -40px #0000001c;
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0.5) 0%,
+    rgba(255, 255, 255, 0.2) 100%
+  );
+}
+
+.portfolio-light .frame-6 {
+  display: inline-flex;
+  height: 26px;
+  align-items: center;
+  gap: 11px;
+  position: relative;
+  top: 4px;
+  left: 24px;
+}
+
+.portfolio-light .ellipse {
+  position: relative;
+  width: 8px;
+  height: 8px;
+  background-color: #007415;
+  border-radius: 4px;
+}
+
+.portfolio-light .text-wrapper-5 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: fit-content;
+  margin-top: -1.5px;
+  font-family: "Roboto-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #3a3a3a;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: 27px;
+  white-space: nowrap;
+}
+
+.portfolio-light .image {
+  position: relative;
+  width: 535px;
+  height: 572px;
+  margin-top: -2px;
+  margin-bottom: -102px;
+  margin-right: -56px;
+}
+
+.portfolio-light .services {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 449px;
+}
+
+.portfolio-light .frame-7 {
+  display: flex;
+  flex-direction: column;
+  width: 1191px;
+  align-items: flex-start;
+  gap: 20px;
+  position: relative;
+}
+
+.portfolio-light .title {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 109px;
+}
+
+.portfolio-light .frame-8 {
+  display: flex;
+  flex-direction: column;
+  width: 1191px;
+  align-items: flex-start;
+  gap: 5px;
+  position: relative;
+}
+
+.portfolio-light .service {
+  display: flex;
+  flex-direction: column;
+  width: 68px;
+  align-items: flex-start;
+  gap: 10px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.portfolio-light .text-wrapper-6 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  background: linear-gradient(
+    180deg,
+    rgba(213, 167, 119, 1) 0%,
+    rgba(111, 87, 62, 1) 100%
+  );
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  font-family: "Red Hat Display-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.portfolio-light .rectangle-3 {
+  position: relative;
+  width: 50px;
+  height: 2px;
+  background: linear-gradient(
+    180deg,
+    rgba(213, 167, 119, 1) 0%,
+    rgba(111, 87, 62, 1) 100%
+  );
+}
+
+.portfolio-light .what-actually-i-love-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.portfolio-light .what-actually-i-love {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Red Hat Display-Bold", Helvetica;
+  font-weight: 700;
+  color: #24202e;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.portfolio-light .frame-9 {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.portfolio-light .UX-research {
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+  height: 320px;
+  box-shadow: 0px 25px 52px #0000001c;
+}
+
+.portfolio-light .frame-10 {
+  display: flex;
+  flex-direction: column;
+  width: 384px;
+  height: 320px;
+  align-items: flex-start;
+  gap: 20px;
+  padding: 24px;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 8px;
+  border: 1px solid;
+  border-color: #edebeb;
+}
+
+.portfolio-light .frame-11 {
+  display: inline-flex;
+  align-items: center;
+  gap: 20px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.portfolio-light .group {
+  position: relative;
+  width: 62px;
+  height: 60.59px;
+  border-radius: 8px;
+  background: linear-gradient(
+    270deg,
+    rgba(212, 165, 116, 1) 0%,
+    rgba(212, 146, 116, 1) 100%
+  );
+}
+
+.portfolio-light .fa-mobile {
+  position: relative;
+  top: 17px;
+  left: 23px;
+  width: 17px;
+  height: 28px;
+  background-image: url(./img/vector-3.svg);
+  background-size: 100% 100%;
+}
+
+.portfolio-light .text-wrapper-7 {
+  position: relative;
+  width: fit-content;
+  font-family: "Red Hat Display-Medium", Helvetica;
+  font-weight: 500;
+  color: #24202e;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.portfolio-light .p {
+  position: relative;
+  align-self: stretch;
+  font-family: "Red Hat Display-Regular", Helvetica;
+  font-weight: 400;
+  color: #46434d;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 32px;
+}
+
+.portfolio-light .group-2 {
+  position: relative;
+  width: 187px;
+  height: 60.59px;
+}
+
+.portfolio-light .text-wrapper-8 {
+  position: absolute;
+  top: 15px;
+  left: 82px;
+  font-family: "Red Hat Display-Medium", Helvetica;
+  font-weight: 500;
+  color: #24202e;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.portfolio-light .tabler-brand-sentry-wrapper {
+  background: linear-gradient(
+    90deg,
+    rgba(212, 165, 116, 1) 0%,
+    rgba(212, 146, 116, 1) 100%
+  );
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 62px;
+  height: 61px;
+  display: flex;
+  border-radius: 8px;
+}
+
+.portfolio-light .tabler-brand-sentry {
+  margin-top: 16px;
+  width: 28px;
+  height: 28px;
+  margin-left: 17px;
+  display: flex;
+}
+
+.portfolio-light .vector {
+  flex: 1;
+  width: 22.98px;
+}
+
+.portfolio-light .group-3 {
+  position: relative;
+  width: 271px;
+  height: 64px;
+}
+
+.portfolio-light .design-system {
+  position: absolute;
+  top: 0;
+  left: 82px;
+  font-family: "Red Hat Display-Medium", Helvetica;
+  font-weight: 500;
+  color: #24202e;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.portfolio-light .ic-outline-web-wrapper {
+  background: linear-gradient(
+    180deg,
+    rgba(212, 165, 116, 1) 0%,
+    rgba(212, 146, 116, 1) 100%
+  );
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 62px;
+  height: 61px;
+  display: flex;
+  border-radius: 8px;
+}
+
+.portfolio-light .ic-outline-web {
+  margin-top: 17px;
+  width: 28px;
+  height: 28px;
+  margin-left: 17px;
+  display: flex;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.portfolio-light .img {
+  flex: 1;
+  width: 23.33px;
+}
+
+.portfolio-light .text-wrapper-9 {
+  position: relative;
+  align-self: stretch;
+  font-family: "Red Hat Display-Regular", Helvetica;
+  font-weight: 400;
+  color: #46434d;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 32px;
+}
+
+.portfolio-light .frame-12 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 20px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.portfolio-light .projects {
+  position: relative;
+  width: 147px;
+  height: 36px;
+}
+
+.portfolio-light .service-2 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  position: relative;
+}
+
+.portfolio-light .text-wrapper-10 {
+  position: relative;
+  width: 147px;
+  margin-top: -1px;
+  background: linear-gradient(
+    180deg,
+    rgba(213, 167, 119, 1) 0%,
+    rgba(111, 87, 62, 1) 100%
+  );
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  font-family: "Red Hat Display-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.portfolio-light .frame-13 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 36px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.portfolio-light .frame-14 {
+  display: flex;
+  height: 350px;
+  align-items: flex-end;
+  gap: 47px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.portfolio-light .frame-15 {
+  display: flex;
+  flex-direction: column;
+  width: 555px;
+  align-items: flex-start;
+  gap: 24px;
+  position: relative;
+  margin-top: -0.33px;
+}
+
+.portfolio-light .text-wrapper-11 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: "Red Hat Display-Bold", Helvetica;
+  font-weight: 700;
+  color: #24202e;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.portfolio-light .project {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  position: relative;
+  flex: 0 0 auto;
+  box-shadow: 0px 25px 50px #0000001c;
+}
+
+.portfolio-light .screenshot {
+  position: relative;
+  width: 563px;
+  height: 310.33px;
+  margin-bottom: -8px;
+  margin-left: -4px;
+  margin-right: -4px;
+  aspect-ratio: 1.84;
+}
+
+.portfolio-light .frame-16 {
+  display: flex;
+  flex-direction: column;
+  width: 543px;
+  align-items: flex-start;
+  gap: 21px;
+  position: relative;
+}
+
+.portfolio-light .screenshot-2 {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  margin-bottom: -75px;
+  margin-left: -50px;
+  margin-right: -50px;
+  aspect-ratio: 1.82;
+}
+
+.portfolio-light .frame-17 {
+  display: flex;
+  flex-direction: column;
+  width: 555px;
+  align-items: flex-start;
+  gap: 24px;
+  position: relative;
+  margin-top: -0.4px;
+}
+
+.portfolio-light .screenshot-wrapper {
+  position: relative;
+  width: 555px;
+  height: 302.4px;
+  box-shadow: 0px 25px 50px #0000001c;
+}
+
+.portfolio-light .screenshot-3 {
+  position: absolute;
+  top: 0;
+  left: -4px;
+  width: 563px;
+  height: 310px;
+  aspect-ratio: 1.84;
+}
+
+.portfolio-light .testimonials {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 605px;
+}
+
+.portfolio-light .frame-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 147px;
+  height: 36px;
+  display: flex;
+}
+
+.portfolio-light .projects-wrapper {
+  display: inline-flex;
+  width: 147px;
+  height: 36px;
+  position: relative;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 15px;
+}
+
+.portfolio-light .img-2 {
+  position: absolute;
+  top: 479px;
+  left: 167px;
+  width: 86px;
+  height: 80px;
+}
+
+.portfolio-light .img-3 {
+  position: absolute;
+  top: 479px;
+  left: 962px;
+  width: 86px;
+  height: 80px;
+}
+
+.portfolio-light .img-4 {
+  position: absolute;
+  top: 209px;
+  left: 1110px;
+  width: 86px;
+  height: 80px;
+}
+
+.portfolio-light .img-5 {
+  position: absolute;
+  top: 209px;
+  left: 18px;
+  width: 86px;
+  height: 80px;
+}
+
+.portfolio-light .quote-text {
+  position: absolute;
+  top: 122px;
+  left: 296px;
+  width: 696px;
+  height: 211px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.portfolio-light .quote {
+  margin-left: 288.5px;
+  width: 45.89px;
+  height: 42px;
+}
+
+.portfolio-light .text-wrapper-12 {
+  width: 693.84px;
+  height: 159px;
+  font-family: "Red Hat Display-Medium", Helvetica;
+  font-weight: 500;
+  color: #626066;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 32px;
+}
+
+.portfolio-light .pager {
+  position: absolute;
+  top: 595px;
+  left: 519px;
+  width: 175px;
+  height: 10px;
+  display: flex;
+  gap: 21.9px;
+}
+
+.portfolio-light .ellipse-2 {
+  width: 10.93px;
+  height: 10px;
+  background-color: #d4a574;
+  border-radius: 5.46px / 5px;
+}
+
+.portfolio-light .ellipse-3 {
+  width: 10.93px;
+  height: 10px;
+  border-radius: 5.46px / 5px;
+  border: 1px solid;
+  border-color: #d5a777;
+}
+
+.portfolio-light .frame-18 {
+  display: flex;
+  flex-direction: column;
+  width: 311px;
+  align-items: flex-start;
+  position: absolute;
+  top: 360px;
+  left: 463px;
+}
+
+.portfolio-light .michel-john {
+  position: relative;
+  width: 289px;
+  height: 180px;
+}
+
+.portfolio-light .img-6 {
+  position: absolute;
+  top: 0;
+  left: 83px;
+  width: 98px;
+  height: 108px;
+}
+
+.portfolio-light .ellipse-4 {
+  position: absolute;
+  top: 47px;
+  left: 21px;
+  width: 61px;
+  height: 61px;
+  background-color: #ddd2eb;
+  border-radius: 30.41px;
+  filter: blur(25px);
+}
+
+.portfolio-light .mask-group {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 98px;
+  height: 98px;
+}
+
+.portfolio-light .text-wrapper-13 {
+  position: absolute;
+  top: 159px;
+  left: 0;
+  font-family: "Red Hat Display-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.portfolio-light .text-wrapper-14 {
+  position: absolute;
+  top: 128px;
+  left: 73px;
+  font-family: "Red Hat Display-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.portfolio-light .skill-icons-linkedin {
+  position: absolute;
+  top: -10px;
+  left: 73px;
+  width: 27px;
+  height: 27px;
+  aspect-ratio: 1;
+}
+
+.portfolio-light .group-4 {
+  position: relative;
+  height: 100%;
+  background-image: url(./img/image.svg);
+  background-size: 100% 100%;
+}
+
+.portfolio-light .vector-2 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+
+.portfolio-light .vector-3 {
+  position: absolute;
+  width: 85.16%;
+  height: 85.16%;
+  top: 14.84%;
+  left: 14.84%;
+}
+
+.portfolio-light .contact-me {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 108px;
+}
+
+.portfolio-light .title-2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1191px;
+  height: 108px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.portfolio-light .title-3 {
+  width: 150px;
+  display: flex;
+}
+
+.portfolio-light .frame-19 {
+  display: inline-flex;
+  width: 150px;
+  height: 44px;
+  position: relative;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 15px;
+}
+
+.portfolio-light .projects-2 {
+  position: relative;
+  width: 150px;
+  height: 44px;
+}
+
+.portfolio-light .text-wrapper-15 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  background: linear-gradient(
+    180deg,
+    rgba(213, 167, 119, 1) 0%,
+    rgba(111, 87, 62, 1) 100%
+  );
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  font-family: "Red Hat Display-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.portfolio-light .frame-20 {
+  display: flex;
+  width: 1191px;
+  height: 52px;
+  position: relative;
+  align-items: flex-start;
+  gap: 18px;
+}
+
+.portfolio-light .text-wrapper-16 {
+  position: relative;
+  flex: 1;
+  margin-top: -1px;
+  font-family: "Roboto-Medium", Helvetica;
+  font-weight: 500;
+  color: #25202f;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 52px;
+}
+
+.portfolio-light .text-wrapper-17 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Roboto-Medium", Helvetica;
+  font-weight: 500;
+  color: #737373;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 52px;
+  white-space: nowrap;
+}
+
+.portfolio-light .mail {
+  position: absolute;
+  top: 0;
+  left: 890px;
+  width: 303px;
+  height: 28px;
+  display: flex;
+}
+
+.portfolio-light .text-wrapper-18 {
+  width: 301px;
+  height: 28px;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #737373;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-decoration: underline;
+}
